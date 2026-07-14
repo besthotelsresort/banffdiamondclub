@@ -1,0 +1,2 @@
+# banffdiamondclub
+Static site: banffdiamondclub
